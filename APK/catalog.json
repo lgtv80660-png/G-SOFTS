@@ -20,15 +20,6 @@
                          "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-armeabi-v7a.apk"
                      },
                      {
-                         "sha256":  "ada29e13f38296c1d9063a77f39647979fecccc4b4675aa55b648969278c7ceb",
-                         "bytes":  2254936,
-                         "minSdk":  26,
-                         "abi":  "any",
-                         "versionCode":  36,
-                         "package":  "app.gtv.live",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-Live.apk"
-                     },
-                     {
                          "sha256":  "216289c9d032861850cd4e472daa1f680cf589b4daa1cb9075d1f74fb00e964a",
                          "bytes":  45450978,
                          "minSdk":  26,
@@ -45,6 +36,15 @@
                          "versionCode":  29,
                          "package":  "app.gtv.universal",
                          "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86_64.apk"
+                     },
+                     {
+                         "sha256":  "eec0ad9df041729f03ea914e7cd30f261cfc2ff01bedcada8e014b3f1547c0ed",
+                         "bytes":  2252884,
+                         "minSdk":  26,
+                         "abi":  "any",
+                         "versionCode":  37,
+                         "package":  "app.gtv.live",
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-37/GTV-Live.apk"
                      }
                  ]
 }
