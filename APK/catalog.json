@@ -38,13 +38,13 @@
                          "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86_64.apk"
                      },
                      {
-                         "sha256":  "eec0ad9df041729f03ea914e7cd30f261cfc2ff01bedcada8e014b3f1547c0ed",
-                         "bytes":  2252884,
+                         "sha256":  "4f6338d885103d9c8a9d46a4724a248f7e4c8bc82106ca81165fbca17965f5e6",
+                         "bytes":  2253076,
                          "minSdk":  26,
                          "abi":  "any",
-                         "versionCode":  37,
+                         "versionCode":  38,
                          "package":  "app.gtv.live",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-37/GTV-Live.apk"
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-38/GTV-Live.apk"
                      }
                  ]
 }
