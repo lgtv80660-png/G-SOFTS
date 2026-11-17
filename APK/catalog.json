@@ -2,49 +2,49 @@
     "schema":  1,
     "releases":  [
                      {
-                         "sha256":  "ba424b719c068fe2b4aec9b91fc83b487dcd379fcbe20ac5bfed1f9677cb219e",
-                         "bytes":  2253220,
-                         "minSdk":  26,
-                         "abi":  "any",
-                         "versionCode":  35,
-                         "package":  "app.gtv.live",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-35/GTV-Live.apk"
-                     },
-                     {
-                         "sha256":  "f7e4dbdf19faccc00c2e9b1ab42184ad571f3a3ff090f6e63f6174c24e7f5182",
-                         "bytes":  46602013,
+                         "sha256":  "77251b7527f7734d3c9b2942943057dc68e15deaf8d8cdfd0673992676b7e796",
+                         "bytes":  46604194,
                          "minSdk":  26,
                          "abi":  "arm64-v8a",
-                         "versionCode":  28,
+                         "versionCode":  29,
                          "package":  "app.gtv.universal",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-35/GTV-0.11-correctif-chaines-arm64-v8a.apk"
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-arm64-v8a.apk"
                      },
                      {
-                         "sha256":  "165f2b0aa0b2824cf3afd6d986a124cbcf4c761c34b92ba2bad8bebf5439dc5d",
-                         "bytes":  36937677,
+                         "sha256":  "d71c1f9097502669aea4462ecd110e6a506e6edde118be556465ca002aac7f73",
+                         "bytes":  36939858,
                          "minSdk":  26,
                          "abi":  "armeabi-v7a",
-                         "versionCode":  28,
+                         "versionCode":  29,
                          "package":  "app.gtv.universal",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-35/GTV-0.11-correctif-chaines-armeabi-v7a.apk"
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-armeabi-v7a.apk"
                      },
                      {
-                         "sha256":  "f76066fbd04794b7c9c1ca5602f00925be41506fe9668deec328b9cba50299f2",
-                         "bytes":  45448797,
+                         "sha256":  "ada29e13f38296c1d9063a77f39647979fecccc4b4675aa55b648969278c7ceb",
+                         "bytes":  2254936,
+                         "minSdk":  26,
+                         "abi":  "any",
+                         "versionCode":  36,
+                         "package":  "app.gtv.live",
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-Live.apk"
+                     },
+                     {
+                         "sha256":  "216289c9d032861850cd4e472daa1f680cf589b4daa1cb9075d1f74fb00e964a",
+                         "bytes":  45450978,
                          "minSdk":  26,
                          "abi":  "x86",
-                         "versionCode":  28,
+                         "versionCode":  29,
                          "package":  "app.gtv.universal",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-35/GTV-0.11-correctif-chaines-x86.apk"
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86.apk"
                      },
                      {
-                         "sha256":  "38410f2e79a70ce15a55c62efee4703579fe54945897ce137761c79ef63a3dae",
-                         "bytes":  47055199,
+                         "sha256":  "b24159c8d3a902fafc235a9e638f9749ebbf24ce36b1007da17d1e1b2f493e5e",
+                         "bytes":  47057380,
                          "minSdk":  26,
                          "abi":  "x86_64",
-                         "versionCode":  28,
+                         "versionCode":  29,
                          "package":  "app.gtv.universal",
-                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-35/GTV-0.11-correctif-chaines-x86_64.apk"
+                         "url":  "https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86_64.apk"
                      }
                  ]
 }
