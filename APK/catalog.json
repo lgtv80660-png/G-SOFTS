@@ -11,40 +11,40 @@
       "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-38/GTV-Live.apk"
     },
     {
-      "sha256": "66211f12df045de7fc3391f5fc0aa44f82f298cc5748f872f94857dfcf9cdd5a",
-      "bytes": 46665778,
+      "sha256": "f9dbb394840b93e7455ebaa98305b55a4e5b993a7841c64a5637bb91c7bfa525",
+      "bytes": 46665854,
       "minSdk": 26,
       "abi": "arm64-v8a",
-      "versionCode": 32,
+      "versionCode": 33,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-32/GTV-arm64-v8a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-33/GTV-arm64-v8a.apk"
     },
     {
-      "sha256": "e205dc733170a75793585e25706c5fae163555c987af3a557881ae441dbf2852",
-      "bytes": 37001442,
+      "sha256": "708d69ce8760be16ab0bc07243e107dbc77966523b6fa41fbea229445cecc96c",
+      "bytes": 37001518,
       "minSdk": 26,
       "abi": "armeabi-v7a",
-      "versionCode": 32,
+      "versionCode": 33,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-32/GTV-armeabi-v7a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-33/GTV-armeabi-v7a.apk"
     },
     {
-      "sha256": "ac67372fc1d77f2a7fc3df20a0ba1a5ca8dcc5f4e3df4e1f706a917767717d84",
-      "bytes": 45512562,
+      "sha256": "2fea9257d3e5a1c47f0d1d3f6f92eac05375910ca706e4e56a4cbf62ee37b771",
+      "bytes": 45512638,
       "minSdk": 26,
       "abi": "x86",
-      "versionCode": 32,
+      "versionCode": 33,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-32/GTV-x86.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-33/GTV-x86.apk"
     },
     {
-      "sha256": "976e1e61d306a712294bf218ae4ba36bb9a6a8d1393c7b6a4363f7ba529d6263",
-      "bytes": 47118964,
+      "sha256": "719308e1bd8659e3eb385aebe3aec0391537e20614b5501e17bae3396926c0a8",
+      "bytes": 47119040,
       "minSdk": 26,
       "abi": "x86_64",
-      "versionCode": 32,
+      "versionCode": 33,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-32/GTV-x86_64.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-qr-33/GTV-x86_64.apk"
     }
   ]
 }
