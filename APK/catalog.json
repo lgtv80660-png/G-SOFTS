@@ -11,40 +11,40 @@
       "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-38/GTV-Live.apk"
     },
     {
-      "sha256": "3fde2a1ac8c0bc9ca0a58614a13fe22ec88411db14cf432f28291888aaa8fcba",
-      "bytes": 46868175,
+      "sha256": "b24112defcbb9263098e6d92d04c8f33d238abcadafe11fc1987d34fb376d5bc",
+      "bytes": 46868723,
       "minSdk": 26,
       "abi": "arm64-v8a",
-      "versionCode": 39,
+      "versionCode": 40,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-gtube-39/GTV-arm64-v8a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-arm64-v8a.apk"
     },
     {
-      "sha256": "100206f75381cd282336029a53abafa71f24f0dcb35f8dac936121e6c65da84d",
-      "bytes": 37203839,
+      "sha256": "5889b8c395157b49e6bb860ea81c5c8e00c0dfcbc09ee2b7025a5ab0ea48ead9",
+      "bytes": 37204387,
       "minSdk": 26,
       "abi": "armeabi-v7a",
-      "versionCode": 39,
+      "versionCode": 40,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-gtube-39/GTV-armeabi-v7a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-armeabi-v7a.apk"
     },
     {
-      "sha256": "1335eac5a7989893fc792efa3fc781fb9e21948d084e7c80cee50adf07ce1939",
-      "bytes": 45714959,
+      "sha256": "de7580b9f5e9fd8069ae6c1ed126774dc379c55036f59d0d60e5ebbdd9084b53",
+      "bytes": 45715507,
       "minSdk": 26,
       "abi": "x86",
-      "versionCode": 39,
+      "versionCode": 40,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-gtube-39/GTV-x86.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-x86.apk"
     },
     {
-      "sha256": "b6729d3e2e0a195e72093081fbd4d090fe08729db24c9ed73fb32003fc682fc9",
-      "bytes": 47321361,
+      "sha256": "1830942cfe398b52dff9b58a2ec2e74fe242feff5d9f8042aed42a6601e1cc17",
+      "bytes": 47321909,
       "minSdk": 26,
       "abi": "x86_64",
-      "versionCode": 39,
+      "versionCode": 40,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gtv-gtube-39/GTV-x86_64.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-x86_64.apk"
     }
   ]
 }
