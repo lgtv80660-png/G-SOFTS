@@ -2,49 +2,94 @@
   "schema": 1,
   "releases": [
     {
-      "sha256": "4f6338d885103d9c8a9d46a4724a248f7e4c8bc82106ca81165fbca17965f5e6",
-      "bytes": 2253076,
+      "package": "app.gtv.universal",
+      "versionCode": 57,
       "minSdk": 26,
-      "abi": "any",
-      "versionCode": 38,
-      "package": "app.gtv.live",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/live-38/GTV-Live.apk"
-    },
-    {
-      "sha256": "b24112defcbb9263098e6d92d04c8f33d238abcadafe11fc1987d34fb376d5bc",
-      "bytes": 46868723,
-      "minSdk": 26,
+      "experience": "tv",
       "abi": "arm64-v8a",
-      "versionCode": 40,
-      "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-arm64-v8a.apk"
+      "bytes": 46938181,
+      "sha256": "810785cc9cb13b7176654b096d4e4cad6ed19cdc78dff829d2c246148310a679",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-TV-Experience-57-arm64-v8a.apk"
     },
     {
-      "sha256": "5889b8c395157b49e6bb860ea81c5c8e00c0dfcbc09ee2b7025a5ab0ea48ead9",
-      "bytes": 37204387,
+      "package": "app.gtv.universal",
+      "versionCode": 57,
       "minSdk": 26,
+      "experience": "tv",
       "abi": "armeabi-v7a",
-      "versionCode": 40,
-      "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-armeabi-v7a.apk"
+      "bytes": 37273845,
+      "sha256": "df4d252d3c1a9470e5977c77e4556279ebbbee0b1625a94d9fe97756cffbecfb",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-TV-Experience-57-armeabi-v7a.apk"
     },
     {
-      "sha256": "de7580b9f5e9fd8069ae6c1ed126774dc379c55036f59d0d60e5ebbdd9084b53",
-      "bytes": 45715507,
+      "package": "app.gtv.universal",
+      "versionCode": 57,
       "minSdk": 26,
+      "experience": "tv",
       "abi": "x86",
-      "versionCode": 40,
-      "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-x86.apk"
+      "bytes": 45784965,
+      "sha256": "ca32f253942778c444ff8ae5625c020e8328f0fda1b0c8067351093f5ae9bf03",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-TV-Experience-57-x86.apk"
     },
     {
-      "sha256": "1830942cfe398b52dff9b58a2ec2e74fe242feff5d9f8042aed42a6601e1cc17",
-      "bytes": 47321909,
-      "minSdk": 26,
-      "abi": "x86_64",
-      "versionCode": 40,
       "package": "app.gtv.universal",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-40/GOBO-x86_64.apk"
+      "versionCode": 57,
+      "minSdk": 26,
+      "experience": "tv",
+      "abi": "x86_64",
+      "bytes": 47391367,
+      "sha256": "5ca36bc628ae1337a5307419dd5b2d9b188f1550ea6ee7f8071d7dfe9d008b68",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-TV-Experience-57-x86_64.apk"
+    },
+    {
+      "package": "app.gtv.universal",
+      "versionCode": 57,
+      "minSdk": 26,
+      "experience": "mobile",
+      "abi": "arm64-v8a",
+      "bytes": 46938173,
+      "sha256": "43fa71dd0a41598f2ac5d9d9fb9ac2e2bd9b238fd869246b253f8d9b7ef70c17",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-Mobile-Experience-57-arm64-v8a.apk"
+    },
+    {
+      "package": "app.gtv.universal",
+      "versionCode": 57,
+      "minSdk": 26,
+      "experience": "mobile",
+      "abi": "armeabi-v7a",
+      "bytes": 37273837,
+      "sha256": "983aa119f92ff9db6e3047ae42ff8b771d30e629ee086d8cb879e8ec7eb14328",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-Mobile-Experience-57-armeabi-v7a.apk"
+    },
+    {
+      "package": "app.gtv.universal",
+      "versionCode": 57,
+      "minSdk": 26,
+      "experience": "mobile",
+      "abi": "x86",
+      "bytes": 45784957,
+      "sha256": "a792ec39cded36004d4c9b81f571c75f57255ae75ca5741797c703b7e3eeeabb",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-Mobile-Experience-57-x86.apk"
+    },
+    {
+      "package": "app.gtv.universal",
+      "versionCode": 57,
+      "minSdk": 26,
+      "experience": "mobile",
+      "abi": "x86_64",
+      "bytes": 47391359,
+      "sha256": "ad7c7fae9cd5778b793782c337dab9d89099a265282dc62cca76cff57fd59e04",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-Mobile-Experience-57-x86_64.apk"
+    },
+    {
+      "package": "app.gtv.live",
+      "versionCode": 55,
+      "minSdk": 26,
+      "experience": "live",
+      "abi": "any",
+      "bytes": 3078562,
+      "sha256": "47238cf72aaec972d397047fccbb191e29ecaae5aad67dd3f4833d2889ed7afb",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-34878565c9df55a839ea/GOBO-LIVE.apk"
     }
   ]
 }
