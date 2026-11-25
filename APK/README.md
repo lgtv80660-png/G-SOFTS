@@ -9,7 +9,7 @@
 - [GOBO MOBILE 57 — armeabi-v7a](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-experiences-57/GOBO-Mobile-Experience-57-armeabi-v7a.apk)
 - [GOBO MOBILE 57 — x86](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-experiences-57/GOBO-Mobile-Experience-57-x86.apk)
 - [GOBO MOBILE 57 — x86_64](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-experiences-57/GOBO-Mobile-Experience-57-x86_64.apk)
-- [GOBO LIVE 58 — any](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-live-58/GOBO-LIVE.apk)
+- [GOBO LIVE 61 — any](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-live-61/GOBO-LIVE.apk)
 
 Les applications proposent leur mise à jour au démarrage. Android demande une confirmation avant installation. Mobile et TV sont deux éditions distinctes ; choisissez celle de votre appareil.
 
