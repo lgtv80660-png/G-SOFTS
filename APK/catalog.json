@@ -83,13 +83,13 @@
     },
     {
       "package": "app.gtv.live",
-      "versionCode": 58,
+      "versionCode": 61,
       "minSdk": 26,
       "experience": "live",
       "abi": "any",
-      "bytes": 3075854,
-      "sha256": "aa8a32d05c89ef3b5c69de965eba35b683f95ce5e2d9ae3fac1507051fc599b3",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-live-58/GOBO-LIVE.apk"
+      "bytes": 1421272,
+      "sha256": "c7b538079949c3fd5b0d54cff858a78c608d6fcb52c6137e5dd51be011c0a0b3",
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-live-61/GOBO-LIVE.apk"
     }
   ]
 }
