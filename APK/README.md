@@ -21,7 +21,8 @@ Choisis un seul APK pour ton appareil. GTV peut ensuite proposer ses propres mis
 - [GTV Android ARM 32 bits](https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-armeabi-v7a.apk)
 - [GTV Android x86 64 bits](https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86_64.apk)
 - [GTV Android x86 32 bits](https://github.com/lgtv80660-png/G-SOFTS/releases/download/apk-36/GTV-x86.apk)
-- [GOBO TV 63 — arm64-v8a](https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-arm64-v8a.apk)
-- [GOBO TV 63 — armeabi-v7a](https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-armeabi-v7a.apk)
-- [GOBO TV 63 — x86](https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-x86.apk)
-- [GOBO TV 63 — x86_64](https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-x86_64.apk)
+
+- [GOBO TV 63 — arm64-v8a](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-arm64-v8a.apk)
+- [GOBO TV 63 — armeabi-v7a](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-armeabi-v7a.apk)
+- [GOBO TV 63 — x86](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-x86.apk)
+- [GOBO TV 63 — x86_64](https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-x86_64.apk)
