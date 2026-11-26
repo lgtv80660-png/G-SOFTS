@@ -59,7 +59,7 @@
       "abi": "arm64-v8a",
       "bytes": 46938892,
       "sha256": "b32035afdb5948fcb2823180acb68afe990b8edad348b7c9b894b102ec04505a",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-arm64-v8a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-arm64-v8a.apk"
     },
     {
       "package": "app.gtv.universal",
@@ -69,7 +69,7 @@
       "abi": "armeabi-v7a",
       "bytes": 37274556,
       "sha256": "835f46c73cde33b24c4dfab4fbb5c94acf1bbf2b06093793b2fcfdc5ccfea4cb",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-armeabi-v7a.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-armeabi-v7a.apk"
     },
     {
       "package": "app.gtv.universal",
@@ -79,7 +79,7 @@
       "abi": "x86",
       "bytes": 45785676,
       "sha256": "9bf99ba2bd384c628225fec15408cb0c925806a3180597860a55ea476c0bec81",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-x86.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-x86.apk"
     },
     {
       "package": "app.gtv.universal",
@@ -89,7 +89,7 @@
       "abi": "x86_64",
       "bytes": 47392078,
       "sha256": "7abc8f31d6fd0bed6193623faa199a96cc640a61637079cbdb6d2ee0fd5adf1d",
-      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/untagged-626bbaf268a14ee84890/GOBO-TV-Experience-63-x86_64.apk"
+      "url": "https://github.com/lgtv80660-png/G-SOFTS/releases/download/gobo-tv-63/GOBO-TV-Experience-63-x86_64.apk"
     }
   ]
 }
